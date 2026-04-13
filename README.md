@@ -3,7 +3,7 @@
 <br>
 
 > [!NOTE]  
-> Made for a friend / personal use, but kept public in case it helps someone.
+> Made for personal use, but kept public in case it helps someone.
 
 # Static markdown docs
 
