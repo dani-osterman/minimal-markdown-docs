@@ -10,14 +10,14 @@ const inter = Inter({
 
 export const metadata: Metadata = {
 	title: {
-		default: "Static markdown docs",
-		template: "%s | Static markdown docs",
+		default: "Static Markdown Docs",
+		template: "%s | Static Markdown Docs",
 	},
 	description:
 		"A minimal, statically generated documentation site built with Next.js and Markdown.",
 	metadataBase: new URL("https://example.com"),
 	openGraph: {
-		title: "Static markdown docs",
+		title: "Static Markdown Docs",
 		description:
 			"A minimal, statically generated documentation site built with Next.js and Markdown.",
 		type: "website",
