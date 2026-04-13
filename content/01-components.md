@@ -1,6 +1,6 @@
 ---
-label: Styled blocks
-title: Styled Block Reference
+label: Components
+title: All components
 subtitle: All available HTML components for your markdown pages
 ---
 

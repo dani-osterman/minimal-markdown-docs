@@ -24,8 +24,8 @@ Each file starts with a metadata (frontmatter) block at the top:
 
 ```md
 ---
-label: Results          ← shown as the group category in the sidebar
-title: My Results       ← shown as the page link in the sidebar & heading
+label: Results          ← shown in the navigation
+title: My Results       ← heading
 subtitle: A summary     ← optional, shown below the heading
 ---
 ```

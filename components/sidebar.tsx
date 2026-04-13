@@ -217,7 +217,7 @@ export function Sidebar({
 												: "text-default-500 hover:bg-default-200 hover:text-foreground",
 										)}
 									>
-										{section.title}
+										{section.label || section.title}
 									</button>
 								))}
 							</div>

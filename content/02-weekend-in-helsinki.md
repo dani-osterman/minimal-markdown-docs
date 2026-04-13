@@ -8,6 +8,11 @@ subtitle: A quick city guide for first-time visitors
 Two to three days is plenty for a first visit to Helsinki — a compact, walkable city on the sea with great design, serious coffee, and a sauna culture you shouldn't skip.
 </p>
 
+<div class="callout callout-info">
+  <h4>Disclaimer</h4>
+  <p>Generated fully with LLM.</p>
+</div>
+
 ## At a glance
 
 <div class="info-grid">
